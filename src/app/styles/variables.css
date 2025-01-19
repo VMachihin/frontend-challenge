@@ -1,0 +1,15 @@
+:root {
+  --color-light: #ffffff;
+  --color-dark: #000000;
+  --color-blue: #2196f3;
+  --color-blue-alt: #1e88E5;
+  --color-red-1: #f24e1e;
+  --color-red-2: #ff3a00;
+
+  --box-shadow: 0px 9px 18px 0px rgba(0 0 0 0.18);
+
+  --container-width: 1316px;
+  --container-padding-x: 20px;
+
+  --transition-duration: 0.2s;
+}
